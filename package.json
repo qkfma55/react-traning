@@ -1,0 +1,17 @@
+{
+  "name": "trunk",
+  "version": "1.0.0",
+  "description": "trunking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "trunking"
+  },
+  "author": "bareum",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9"
+  },
+  "private": true
+}
